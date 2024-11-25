@@ -69,11 +69,17 @@ Can connect to multiple data sources and is ideal for summarizing complex data.
 - Right Choice of Visualization: Match the chart type to the data and the story you're telling.
 - Keep it Simple: Avoid overloading visuals with unnecessary elements.
 - Choose Colors Wisely: Use colors to enhance clarity and readability, not distract.
-### Your Learning Experience
-It sounds like your training with Skilharvest and guidance from Mr. Ayeni have been incredibly impactful. Breaking down topics thoroughly is a great way to foster understanding, and it's wonderful that you're now confident in your skills as a Data Analyst.
+### Assignment 
+Among other assignment given, these are soem of the visualization.
+![Screenshot 2024-11-25 214538](https://github.com/user-attachments/assets/34b2b19d-489f-4671-b84c-c9a43b75fd34)
+![IMG_20241028_133103_945@-1657600969](https://github.com/user-attachments/assets/23da353a-1a3e-4986-990d-de84439e443b)
+![IMG_20241027_165106_257@-488621450](https://github.com/user-attachments/assets/5d0d31c5-a74e-4ad1-8005-54c92879ecab)
+
+### My Learning Experience
+My training with Skilharvest and guidance from Mr. Ayeni have been incredibly impactful. Breaking down topics thoroughly is a great way to foster understanding, and it's wonderful that i am now confident in your skills as a Data Analyst.
 
 ### Next Steps
-Apply your knowledge to real-world projects or datasets to refine your skills
+Apply my knowledge to real-world projects or datasets to refine my skills
 
 
 
