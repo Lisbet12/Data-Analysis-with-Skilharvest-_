@@ -21,7 +21,13 @@ The course also provided a structured outline, which included the following key 
 ## Excel
 In this section, we covered the fundamentals of using Excel, including:
 - Introduction to Excel: Understanding the basic interface and tools.
-- Basic Excel Functions: Learning essential formulas and functions for data manipulation.
+- Basic Excel Functions: Learning essential formulas and functions for data manipulation, such as
+  - =Sum
+  - =VLOOKUP
+  - =AVERAGE
+  - =TRIM
+  - =CONCATENATE
+  - =IF and many more Functions 
 - Data Foundation: Gaining a strong foundation in organizing and structuring data in Excel.
 - Creating Reports in Excel: How to compile and present data effectively in reports.
 - Project Challenge: Applying the knowledge gained through a practical project.
